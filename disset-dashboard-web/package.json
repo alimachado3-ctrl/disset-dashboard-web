@@ -1,0 +1,23 @@
+{
+  "name": "disset-dashboard-web",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "swr": "2.2.5",
+    "recharts": "2.10.3",
+    "@supabase/supabase-js": "2.45.0"
+  },
+  "devDependencies": {
+    "typescript": "5.5.4",
+    "autoprefixer": "10.4.19",
+    "postcss": "8.4.39",
+    "tailwindcss": "3.4.9"
+  }
+}
